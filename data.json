@@ -9,18 +9,18 @@
         "title": "Flutter คือ?",
         "subtitle": "Dart Language",
         "image_url": "https://stablekernel.com/wp-content/uploads/2017/06/dart_google_banner.png",
-        "detail": ""
+        "detail": "Hi! Flutter"
     },
     {
         "title": "Dart คือ?",
         "subtitle": "Python คือ ?",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
-        "detail": ""
+        "detail": "Hello Dart"
     },
     {
         "title": "Python คือ?",
         "subtitle": "Python คือ ?",
         "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
-        "detail": ""
+        "detail": "Hello, python"
     }
 ]
