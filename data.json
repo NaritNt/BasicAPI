@@ -2,19 +2,19 @@
     {
         "title": "คอมพิวเตอร์ คืออะไร?",
         "subtitle": "คือ การประมวลผลคำนวณ",
-        "image_url": "https://cdn.pixabay.com/photo/2015/01/21/14/14/apple-606761_1280.jpg",
+        "image_url": "https://github.com/NaritNt/BasicAPI/blob/main/1.jpg?raw=true",
         "detail": "คอมพิวเตอร์ (อังกฤษ: computer) หรือศัพท์บัญญัติราชบัณฑิตยสภาว่า คณิตกรณ์[2][3] เป็นเครื่องจักรแบบสั่งการได้ที่ออกแบบมาเพื่อดำเนินการกับลำดับตัวดำเนินการทางตรรกศาสตร์หรือคณิตศาสตร์ โดยอนุกรมนี้อาจเปลี่ยนแปลงได้เมื่อพร้อม ส่งผลให้คอมพิวเตอร์สามารถแก้ปัญหาได้มากมาย\n\nคอมพิวเตอร์ถูกประดิษฐ์ออกมาให้ประกอบไปด้วยความจำรูปแบบต่าง ๆ เพื่อเก็บข้อมูล อย่างน้อยหนึ่งส่วนที่มีหน้าที่ดำเนินการคำนวณเกี่ยวกับตัวดำเนินการทางตรรกศาสตร์ และตัวดำเนินการทางคณิตศาสตร์ และส่วนควบคุมที่ใช้เปลี่ยนแปลงลำดับของตัวดำเนินการโดยยึดสารสนเทศที่ถูกเก็บไว้เป็นหลัก อุปกรณ์เหล่านี้จะยอมให้นำเข้าข้อมูลจากแหล่งภายนอก และส่งผลจากการคำนวณตัวดำเนินการออกไป"
     },
     {
-        "title": "Flutter คือ?",
-        "subtitle": "Dart Language",
-        "image_url": "https://stablekernel.com/wp-content/uploads/2017/06/dart_google_banner.png",
-        "detail": "Hi! Flutter"
+        "title": "Python คือ?",
+        "subtitle": "Python Language",
+        "image_url": "https://github.com/NaritNt/BasicAPI/blob/main/Python-logo-notext.svg.png?raw=true",
+        "detail": "Hi! Python"
     },
     {
         "title": "Dart คือ?",
-        "subtitle": "Python คือ ?",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+        "subtitle": "Dart คือ ?",
+        "image_url": "https://github.com/NaritNt/BasicAPI/blob/main/dart_google_banner.png?raw=true",
         "detail": "Hello Dart"
     }
 ]
